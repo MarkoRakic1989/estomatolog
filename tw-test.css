@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Елементарни test за DaisyUI Cupcake */
+.bg-cupcake-base { background-color: var(--pf-cupcake-base); }
